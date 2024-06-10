@@ -1,3 +1,12 @@
 {
-  "schoolbell":  {"sounds":  ["alert/schoolbell"]}
+  "alarm.test":  {"sounds":  ["custom/test"]},
+  "alarm.nuc":  {"sounds":  ["custom/nuc"]},
+  "alarm.djftlrndi":  {"sounds":  ["custom/djftlrndi"]},
+  "alarm.qkdlskffhrm":  {"sounds":  ["custom/qkdlskffhrm"]},
+  "alarm.qf":  {"sounds":  ["custom/qf"]},
+  "alarm.airraid":  {"sounds":  ["custom/airraid"]},
+  "alarm.cbr":  {"sounds":  ["custom/cbr"]},
+  "alarm.keew":  {"sounds":  ["custom/eewalarm"]},
+  "alarm.easalarm":  {"sounds":  ["custom/easalarm"]},
+  "alarm.eastone":  {"sounds":  ["custom/eastone"]}
 }
